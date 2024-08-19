@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EnergySubstationAutoDeploy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EnergySubstationAutoDeploy_jar</output-path>
+    <root id="archive" name="EnergySubstationAutoDeploy.jar">
+      <element id="module-output" name="EnergySubstationAutoDeploy" />
+    </root>
+  </artifact>
+</component>
